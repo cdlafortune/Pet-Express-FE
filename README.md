@@ -7,6 +7,5 @@
 - The live site can be found here ().
 
 
-### Getting Started
-  username: llama003 
-  pw: Test003Test
+## Getting Started
+username: llama003  pw: Test003Test
